@@ -1,3 +1,20 @@
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# GNU Make files
+*.make
+*Makefile
+
+# Build caches
+build-*/
+
+# Visual Studio and Visual Studio Code settings
+.vscode/
+.vs/
+
 # Prerequisites
 *.d
 

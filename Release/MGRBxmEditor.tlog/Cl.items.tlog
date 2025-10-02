@@ -1,0 +1,13 @@
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\CruelerThanDAT\CRC32.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\CRC32.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\CruelerThanDAT\FileNodes.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\FileNodes.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\CruelerThanDAT\tinyxml2.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\tinyxml2.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\dllmain.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\dllmain.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\gui.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\gui.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui_demo.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui_demo.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui_draw.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui_draw.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui_impl_dx9.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui_impl_dx9.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui_impl_win32.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui_impl_win32.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\imgui\imgui_widgets.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\imgui_widgets.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\pch.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\pch.obj
+E:\_Projects\MGRBxmEditor\MGRBxmEditor\TextEditor.cpp;E:\_Projects\MGRBxmEditor\MGRBxmEditor\Release\TextEditor.obj
